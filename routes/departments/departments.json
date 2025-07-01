@@ -1,0 +1,148 @@
+[
+  {
+    "name": "Software Development",
+    "manager_id": "a3f70ac9-04ad-489f-a560-d07259b6c1b9",
+    "description": "Responsible for developing, testing, and maintaining software products."
+  },
+  {
+    "name": "Quality Assurance",
+    "manager_id": "fe6e8d72-51a1-4d33-b527-31ff2c804e2a",
+    "description": "Ensures the quality and reliability of software through systematic testing."
+  },
+  {
+    "name": "Human Resources",
+    "manager_id": "543fd157-bf8f-4262-813e-6d2ed2e31d74",
+    "description": "Handles recruitment, employee relations, and other HR functions."
+  },
+  {
+    "name": "IT Support",
+    "description": "Provides technical support and resolves issues related to hardware and software."
+  },
+  {
+    "name": "Customer Support",
+    "description": "Provides assistance to clients and resolves customer issues."
+  },
+  {
+    "name": "Sales & Marketing",
+    "description": "Responsible for marketing campaigns, sales generation, and customer outreach."
+  },
+  {
+    "name": "Project Management",
+    "description": "Oversees project timelines, resources, and ensures on-time delivery of software products."
+  },
+  {
+    "name": "Finance",
+    "description": "Manages budgeting, accounting, and financial planning for the organization."
+  },
+  {
+    "name": "Legal & Compliance",
+    "description": "Ensures that the company complies with legal regulations and handles contracts."
+  },
+  {
+    "name": "UX/UI Design",
+    "description": "Designs user interfaces and improves user experiences for software products."
+  },
+  {
+    "name": "Business Development",
+    "description": "Identifies new business opportunities, markets, and partnerships."
+  },
+  {
+    "name": "Research & Development",
+    "description": "Focuses on developing new technologies, tools, and products."
+  },
+  {
+    "name": "DevOps",
+    "description": "Handles automation, infrastructure, and continuous integration/deployment pipelines."
+  },
+  {
+    "name": "Security",
+    "description": "Ensures security measures are in place to protect data and prevent breaches."
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+
+  },
+  {
+    "name": "DevOps",
+    "manager_id": null,
+    "description": "Responsible for automating and improving the software deployment process."
+  },
+  {
+    "name": "Project Management",
+    "manager_id": null,
+    "description": "Ensures the timely delivery of software projects within scope and budget."
+  },
+  {
+    "name": "UX/UI Design",
+    "manager_id": null,
+    "description": "Focuses on creating user-friendly interfaces and engaging user experiences."
+  },
+  {
+    "name": "Customer Support",
+    "manager_id": null,
+    "description": "Handles customer inquiries, troubleshooting, and provides assistance to end users."
+  },
+  {
+    "name": "Database Administration",
+    "manager_id": null,
+    "description": "Responsible for database management, optimization, and security."
+  },
+  {
+    "name": "IT Support",
+    "manager_id": null,
+    "description": "Ensures smooth operation of internal hardware, software, and network infrastructure."
+  },
+  {
+    "name": "Sales and Marketing",
+    "manager_id": null,
+    "description": "Promotes the company's products and services, generates leads, and drives sales."
+  },
+  {
+    "name": "Business Development",
+    "manager_id": null,
+    "description": "Focuses on expanding the business by establishing strategic partnerships and new opportunities."
+  },
+  {
+    "name": "Security",
+    "manager_id": null,
+    "description": "Ensures that the company's digital assets and data are protected from security threats."
+  },
+  {
+    "name": "Finance and Accounting",
+    "manager_id": null,
+    "description": "Handles financial planning, budgeting, and accounting processes."
+  },
+  {
+    "name": "Legal",
+    "manager_id": null,
+    "description": "Manages the company's legal affairs, including contracts, compliance, and intellectual property."
+  },
+  {
+    "name": "Product Management",
+    "manager_id": null,
+    "description": "Oversees the development and lifecycle of the company’s software products."
+  },
+  {
+    "name": "Research and Development",
+    "manager_id": null,
+    "description": "Focuses on innovation and the creation of new software technologies and solutions."
+  },
+  {
+    "name": "Human Resources",
+    "manager_id": null,
+    "description": "Handles recruitment, employee relations, and other HR functions."
+  },
+  {
+    "name": "Compliance",
+    "manager_id": null,
+    "description": "Ensures that the company adheres to industry regulations and internal policies."
+  }
+]

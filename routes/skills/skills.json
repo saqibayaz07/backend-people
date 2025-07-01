@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Next.js",
+    "description": "A React framework for building static and dynamic web applications with server-side rendering and static site generation.",
+    "category": "Frontend Framework"
+  },
+  {
+    "name": "Sequelize",
+    "description": "An ORM for Node.js, which supports multiple database dialects like PostgreSQL, MySQL, SQLite, and MSSQL.",
+    "category": "Backend Framework"
+  },
+  {
+    "name": "Node.js",
+    "description": "A JavaScript runtime built on Chrome's V8 JavaScript engine for building scalable network applications.",
+    "category": "Backend Framework"
+  },
+  {
+    "name": "MongoDB",
+    "description": "A NoSQL database used for handling large volumes of unstructured data, often used with Node.js applications.",
+    "category": "Database"
+  },
+  {
+    "name": "PostgreSQL",
+    "description": "An open-source relational database management system, known for its support of complex queries and data integrity.",
+    "category": "Database"
+  },
+  {
+    "name": "Android Development",
+    "description": "The process of creating mobile applications for Android devices using Java, Kotlin, and other Android SDK tools.",
+    "category": "Mobile Development"
+  },
+  {
+    "name": "React",
+    "description": "A JavaScript library for building user interfaces, particularly single-page applications, with reusable components.",
+    "category": "Frontend Framework"
+  },
+  {
+    "name": "Vue.js",
+    "description": "A progressive JavaScript framework used for building user interfaces and single-page applications.",
+    "category": "Frontend Framework"
+  },
+  {
+    "name": "Angular",
+    "description": "A platform for building mobile and desktop web applications using TypeScript and JavaScript.",
+    "category": "Frontend Framework"
+  },
+  {
+    "name": "JavaScript",
+    "description": "A versatile programming language used for both client-side and server-side development.",
+    "category": "Programming Language"
+  },
+  {
+    "name": "TypeScript",
+    "description": "A superset of JavaScript that adds static typing, making it ideal for building large-scale applications.",
+    "category": "Programming Language"
+  },
+  {
+    "name": "HTML5",
+    "description": "The latest version of the HTML standard for structuring web content, supporting modern web features like audio, video, and geolocation.",
+    "category": "Frontend Technology"
+  },
+  {
+    "name": "CSS3",
+    "description": "The latest version of CSS, used for styling web pages, including layout techniques like Flexbox and Grid.",
+    "category": "Frontend Technology"
+  },
+  {
+    "name": "Bootstrap",
+    "description": "A front-end framework for building responsive, mobile-first websites, with pre-designed components and styles.",
+    "category": "Frontend Framework"
+  },
+  {
+    "name": "Tailwind CSS",
+    "description": "A utility-first CSS framework for creating custom designs without leaving the HTML.",
+    "category": "Frontend Framework"
+  },
+  {
+    "name": "Android Studio",
+    "description": "The official IDE for Android development, which provides tools for building, testing, and debugging Android applications.",
+    "category": "Mobile Development"
+  },
+  {
+    "name": "Git",
+    "description": "A distributed version control system for managing source code in software development projects.",
+    "category": "Version Control"
+  },
+  {
+    "name": "Jenkins",
+    "description": "An open-source automation server commonly used for continuous integration and continuous delivery (CI/CD).",
+    "category": "DevOps"
+  },
+  {
+    "name": "Docker",
+    "description": "An open-source platform for automating the deployment of applications in lightweight containers.",
+    "category": "DevOps"
+  },
+  {
+    "name": "Kubernetes",
+    "description": "An open-source platform for automating the deployment, scaling, and management of containerized applications.",
+    "category": "DevOps"
+  },
+  {
+    "name": "Figma",
+    "description": "A cloud-based design tool for collaborative user interface and experience design.",
+    "category": "Design"
+  },
+  {
+    "name": "Adobe Photoshop",
+    "description": "A graphic design software used for editing raster graphics, photo retouching, and creating design mockups.",
+    "category": "Design"
+  },
+  {
+    "name": "Adobe Illustrator",
+    "description": "A vector graphics software used for creating scalable illustrations, logos, and icons.",
+    "category": "Design"
+  },
+  {
+    "name": "Sketch",
+    "description": "A vector-based design tool for designing user interfaces and web applications.",
+    "category": "Design"
+  },
+  {
+    "name": "InVision",
+    "description": "A web-based platform used for designing interactive prototypes and collaborating on design projects.",
+    "category": "Design"
+  },
+  {
+    "name": "UX/UI Design",
+    "description": "The process of designing user experiences and interfaces that are intuitive, engaging, and easy to navigate.",
+    "category": "Design"
+  },
+  {
+    "name": "SASS",
+    "description": "A CSS preprocessor that allows you to write more maintainable and reusable CSS with variables, mixins, and nested rules.",
+    "category": "Frontend Technology"
+  },
+  {
+    "name": "Webpack",
+    "description": "A module bundler for JavaScript applications that bundles multiple files into one or more bundles, optimizing performance.",
+    "category": "Frontend Technology"
+  },
+  {
+    "name": "Redux",
+    "description": "A predictable state container for JavaScript apps, often used with React to manage global application state.",
+    "category": "Frontend Framework"
+  },
+  {
+    "name": "Socket.IO",
+    "description": "A JavaScript library for real-time web applications, enabling bidirectional event-based communication between web clients and servers.",
+    "category": "Backend Framework"
+  },
+  {
+    "name": "MongoDB Atlas",
+    "description": "A cloud-based NoSQL database service built on MongoDB, providing database management and scalability features.",
+    "category": "Database"
+  },
+  {
+    "name": "Swift",
+    "description": "A general-purpose, compiled programming language used for building iOS and macOS applications.",
+    "category": "Mobile Development"
+  },
+  {
+    "name": "Kotlin",
+    "description": "A statically-typed programming language that runs on the JVM and is used for Android development, offering more concise and expressive syntax than Java.",
+    "category": "Mobile Development"
+  },
+  {
+    "name": "Firebase",
+    "description": "A platform developed by Google for building mobile and web applications, with features like authentication, database, and cloud storage.",
+    "category": "Cloud Services"
+  },
+  {
+    "name": "Vagrant",
+    "description": "A tool for building and maintaining virtualized development environments, improving reproducibility and portability of development setups.",
+    "category": "DevOps"
+  },
+  {
+    "name": "Elasticsearch",
+    "description": "A distributed, RESTful search and analytics engine, designed for horizontal scalability and real-time search operations.",
+    "category": "Search Engine"
+  },
+  {
+    "name": "Contentful",
+    "description": "A headless CMS that helps manage and deliver content to any platform, including websites, mobile apps, and more.",
+    "category": "CMS"
+  },
+  {
+    "name": "Vercel",
+    "description": "A cloud platform for static sites and serverless functions, optimized for front-end frameworks like React and Next.js.",
+    "category": "Cloud Services"
+  },
+  {
+    "name": "AWS Lambda",
+    "description": "A serverless compute service that runs code in response to events and automatically manages the compute resources required.",
+    "category": "Cloud Services"
+  },
+  {
+    "name": "Salesforce",
+    "description": "A cloud-based customer relationship management (CRM) platform with tools for marketing, sales, and service automation.",
+    "category": "CRM"
+  },
+  {
+    "name": "GraphQL",
+    "description": "A query language for your API, allowing clients to request only the data they need.",
+    "category": "API"
+  },
+  {
+    "name": "API Testing",
+    "description": "The process of testing API endpoints to ensure they function correctly and handle edge cases and errors properly.",
+    "category": "Testing"
+  }
+]

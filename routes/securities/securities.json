@@ -1,0 +1,248 @@
+[
+  {
+    "people_id": "d7045e23-66f0-4db9-93c1-00cdf038e322",
+    "background_checks": {
+      "criminal_record": "clean",
+      "credit_check": "passed",
+      "reference_check": "positive"
+    },
+    "security_clearance_level": "high",
+    "certifications": ["security guard license", "first aid", "firearms training"],
+    "training_completed": ["safety training", "crisis management"],
+    "license_number": "AB123456",
+    "license_expiry_date": "2025-12-31",
+    "work_permit_status": "approved",
+    "incident_reports": [
+      {
+        "incident_id": "123",
+        "description": "Minor security breach",
+        "date": "2024-01-15"
+      }
+    ],
+    "risk_assessment_score": 3.5,
+    "assigned_security_zone": "Main Entrance"
+  },
+  {
+    "people_id": "9ddc83a3-b1e5-4190-834b-82d3050446c4",
+    "background_checks": {
+      "criminal_record": "clean",
+      "credit_check": "failed",
+      "reference_check": "neutral"
+    },
+    "security_clearance_level": "medium",
+    "certifications": ["security guard license", "first aid"],
+    "training_completed": ["safety training"],
+    "license_number": "XY987654",
+    "license_expiry_date": "2024-06-30",
+    "work_permit_status": "pending",
+    "incident_reports": [
+      {
+        "incident_id": "456",
+        "description": "Disciplinary action for lateness",
+        "date": "2024-03-02"
+      }
+    ],
+    "risk_assessment_score": 4.0,
+    "assigned_security_zone": "East Wing"
+  },
+  {
+    "people_id": "1fa31d13-3e33-4714-838c-617b6ef260ef",
+    "background_checks": {
+      "criminal_record": "clean",
+      "credit_check": "passed",
+      "reference_check": "positive"
+    },
+    "security_clearance_level": "low",
+    "certifications": ["security guard license"],
+    "training_completed": ["safety training"],
+    "license_number": "XY123987",
+    "license_expiry_date": "2023-12-31",
+    "work_permit_status": "approved",
+    "incident_reports": [],
+    "risk_assessment_score": 2.8,
+    "assigned_security_zone": "North Gate"
+  },
+  {
+    "people_id": "32d55098-a604-46ab-9c64-9b650415fc30",
+    "background_checks": {
+      "criminal_record": "clean",
+      "credit_check": "passed",
+      "reference_check": "positive"
+    },
+    "security_clearance_level": "top-secret",
+    "certifications": ["advanced security certification", "first aid", "firearms training"],
+    "training_completed": ["counter-terrorism", "advanced surveillance"],
+    "license_number": "ZC001122",
+    "license_expiry_date": "2025-08-15",
+    "work_permit_status": "approved",
+    "incident_reports": [],
+    "risk_assessment_score": 5.0,
+    "assigned_security_zone": "VIP Area"
+  },
+  {
+    "people_id": "0dfd6be1-9e95-45f6-8626-30d8fc08e70e",
+    "background_checks": {
+      "criminal_record": "clean",
+      "credit_check": "passed",
+      "reference_check": "positive"
+    },
+    "security_clearance_level": "medium",
+    "certifications": ["security guard license", "first aid", "firearms training"],
+    "training_completed": ["safety training", "crisis management"],
+    "license_number": "BC123456",
+    "license_expiry_date": "2024-12-31",
+    "work_permit_status": "approved",
+    "incident_reports": [
+      {
+        "incident_id": "789",
+        "description": "Minor altercation with a visitor",
+        "date": "2024-05-10"
+      }
+    ],
+    "risk_assessment_score": 4.2,
+    "assigned_security_zone": "Parking Lot"
+  },
+  {
+    "people_id": "fca50ad9-1048-47d4-a49d-74e3d078a850",
+    "background_checks": {
+      "criminal_record": "clean",
+      "credit_check": "passed",
+      "reference_check": "positive"
+    },
+    "security_clearance_level": "low",
+    "certifications": ["security guard license", "first aid"],
+    "training_completed": ["safety training"],
+    "license_number": "DC987654",
+    "license_expiry_date": "2023-11-30",
+    "work_permit_status": "approved",
+    "incident_reports": [],
+    "risk_assessment_score": 3.1,
+    "assigned_security_zone": "Reception Area"
+  },
+  {
+    "people_id": "9229835a-4d4c-4e93-9e46-248a587c9f3b",
+    "background_checks": {
+      "criminal_record": "clean",
+      "credit_check": "failed",
+      "reference_check": "neutral"
+    },
+    "security_clearance_level": "high",
+    "certifications": ["security guard license", "first aid", "firearms training"],
+    "training_completed": ["safety training", "active shooter response"],
+    "license_number": "EG123456",
+    "license_expiry_date": "2025-01-01",
+    "work_permit_status": "approved",
+    "incident_reports": [
+      {
+        "incident_id": "1011",
+        "description": "Security breach in restricted area",
+        "date": "2024-06-25"
+      }
+    ],
+    "risk_assessment_score": 4.9,
+    "assigned_security_zone": "Restricted Area"
+  },
+  {
+    "people_id": "40ecd955-590a-4942-a694-e2b1168672e3",
+    "background_checks": {
+      "criminal_record": "clean",
+      "credit_check": "passed",
+      "reference_check": "positive"
+    },
+    "security_clearance_level": "top-secret",
+    "certifications": ["advanced security certification", "first aid", "firearms training"],
+    "training_completed": ["counter-terrorism", "advanced surveillance", "VIP protection"],
+    "license_number": "HG001122",
+    "license_expiry_date": "2026-07-22",
+    "work_permit_status": "approved",
+    "incident_reports": [],
+    "risk_assessment_score": 5.0,
+    "assigned_security_zone": "VIP Lounge"
+  },
+  {
+    "people_id": "1eead400-5de3-4e77-b1ab-f8360954fa84",
+    "background_checks": {
+      "criminal_record": "clean",
+      "credit_check": "passed",
+      "reference_check": "positive"
+    },
+    "security_clearance_level": "low",
+    "certifications": ["security guard license", "first aid"],
+    "training_completed": ["safety training"],
+    "license_number": "DC567890",
+    "license_expiry_date": "2024-06-15",
+    "work_permit_status": "approved",
+    "incident_reports": [
+      {
+        "incident_id": "501",
+        "description": "Lost radio communication during patrol",
+        "date": "2024-04-10"
+      }
+    ],
+    "risk_assessment_score": 3.5,
+    "assigned_security_zone": "Front Gate"
+  },
+  {
+    "people_id": "18c56311-2988-4ef2-823f-674dabe354d4",
+    "background_checks": {
+      "criminal_record": "clean",
+      "credit_check": "passed",
+      "reference_check": "positive"
+    },
+    "security_clearance_level": "medium",
+    "certifications": ["security guard license", "first aid", "firearms training"],
+    "training_completed": ["safety training", "crowd control"],
+    "license_number": "AC223344",
+    "license_expiry_date": "2025-05-20",
+    "work_permit_status": "approved",
+    "incident_reports": [
+      {
+        "incident_id": "621",
+        "description": "Involved in a physical altercation with an intruder",
+        "date": "2024-03-22"
+      }
+    ],
+    "risk_assessment_score": 4.1,
+    "assigned_security_zone": "Main Entrance"
+  },
+  {
+    "people_id": "bdaa86ae-bba2-4bc6-900f-6b30e4105f19",
+    "background_checks": {
+      "criminal_record": "clean",
+      "credit_check": "failed",
+      "reference_check": "negative"
+    },
+    "security_clearance_level": "high",
+    "certifications": ["security guard license", "first aid", "firearms training"],
+    "training_completed": ["counter-terrorism", "VIP protection", "surveillance tactics"],
+    "license_number": "FT667788",
+    "license_expiry_date": "2024-11-30",
+    "work_permit_status": "pending",
+    "incident_reports": [
+      {
+        "incident_id": "701",
+        "description": "Suspicious activity reported in restricted area",
+        "date": "2024-07-15"
+      }
+    ],
+    "risk_assessment_score": 4.8,
+    "assigned_security_zone": "VIP Area"
+  },
+  {
+    "people_id": "cd42aa03-7c24-4b7f-895f-008dcc371201",
+    "background_checks": {
+      "criminal_record": "clean",
+      "credit_check": "passed",
+      "reference_check": "neutral"
+    },
+    "security_clearance_level": "top-secret",
+    "certifications": ["advanced security certification", "first aid", "firearms training"],
+    "training_completed": ["advanced surveillance", "counter-terrorism", "diplomatic security"],
+    "license_number": "HG908070",
+    "license_expiry_date": "2026-03-15",
+    "work_permit_status": "approved",
+    "incident_reports": [],
+    "risk_assessment_score": 5.0,
+    "assigned_security_zone": "Headquarters"
+  }
+]

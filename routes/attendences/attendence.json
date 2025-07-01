@@ -1,0 +1,92 @@
+[
+  {
+    "people_id": "123e4567-e89b-12d3-a456-426614174001",
+    "date": "2024-11-30",
+    "status": "present",
+    "check_in_time": "2024-11-30T11:00:00Z",
+    "check_out_time": "2024-11-30T20:00:00Z",
+    "hours_worked": 8.00,
+    "remarks": "Completed all assigned tasks.",
+    "createdAt": "2024-11-30T08:00:00Z"
+  },
+  {
+    "people_id": "123e4567-e89b-12d3-a456-426614174002",
+    "date": "2024-11-30",
+    "status": "absent",
+    "check_in_time": null,
+    "check_out_time": null,
+    "hours_worked": 0.00,
+    "remarks": "Sick leave, unable to attend.",
+    "createdAt": "2024-11-30T08:30:00Z"
+  },
+  {
+    "people_id": "123e4567-e89b-12d3-a456-426614174003",
+    "date": "2024-11-30",
+    "status": "late",
+    "check_in_time": "2024-11-30T11:30:00Z",
+    "check_out_time": "2024-11-30T20:00:00Z",
+    "hours_worked": 7.50,
+    "remarks": "Arrived late due to traffic.",
+    "createdAt": "2024-11-30T08:30:00Z"
+  },
+  {
+    "people_id": "123e4567-e89b-12d3-a456-426614174004",
+    "date": "2024-11-30",
+    "status": "leave",
+    "check_in_time": null,
+    "check_out_time": null,
+    "hours_worked": 0.00,
+    "remarks": "Personal leave for family matters.",
+    "createdAt": "2024-11-30T08:45:00Z"
+  },
+  {
+    "people_id": "123e4567-e89b-12d3-a456-426614174005",
+    "date": "2024-11-30",
+    "status": "present",
+    "check_in_time": "2024-11-30T11:00:00Z",
+    "check_out_time": "2024-11-30T20:00:00Z",
+    "hours_worked": 8.00,
+    "remarks": "Worked on the new software update.",
+    "createdAt": "2024-11-30T09:00:00Z"
+  },
+  {
+    "people_id": "123e4567-e89b-12d3-a456-426614174006",
+    "date": "2024-11-30",
+    "status": "absent",
+    "check_in_time": null,
+    "check_out_time": null,
+    "hours_worked": 0.00,
+    "remarks": "No-show, no prior notice given.",
+    "createdAt": "2024-11-30T09:15:00Z"
+  },
+  {
+    "people_id": "123e4567-e89b-12d3-a456-426614174007",
+    "date": "2024-11-30",
+    "status": "present",
+    "check_in_time": "2024-11-30T11:00:00Z",
+    "check_out_time": "2024-11-30T20:00:00Z",
+    "hours_worked": 8.00,
+    "remarks": "Attended meetings and completed reports.",
+    "createdAt": "2024-11-30T09:30:00Z"
+  },
+  {
+    "people_id": "123e4567-e89b-12d3-a456-426614174008",
+    "date": "2024-11-30",
+    "status": "present",
+    "check_in_time": "2024-11-30T12:00:00Z",
+    "check_out_time": "2024-11-30T20:00:00Z",
+    "hours_worked": 7.00,
+    "remarks": "Late due to urgent personal matter.",
+    "createdAt": "2024-11-30T09:45:00Z"
+  },
+  {
+    "people_id": "123e4567-e89b-12d3-a456-426614174009",
+    "date": "2024-11-30",
+    "status": "present",
+    "check_in_time": "2024-11-30T11:00:00Z",
+    "check_out_time": "2024-11-30T20:00:00Z",
+    "hours_worked": 8.00,
+    "remarks": "Worked on team collaboration tasks.",
+    "createdAt": "2024-11-30T10:00:00Z"
+  }
+]

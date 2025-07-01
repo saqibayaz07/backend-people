@@ -1,0 +1,132 @@
+[
+  {
+    "people_id": "f4f8a3a7-4937-4fd3-b8f7-49c6ebfdc348",
+    "training_name": "Leadership Development",
+    "training_type": "mandatory",
+    "start_date": "2024-11-01",
+    "end_date": "2024-11-15",
+    "status": "completed",
+    "certification_awarded": true,
+    "trainer": "John Doe"
+  },
+  {
+    "people_id": "d879fa25-ea38-41ac-8e58-d3f08e5ea72f",
+    "training_name": "Project Management Fundamentals",
+    "training_type": "optional",
+    "start_date": "2024-10-10",
+    "end_date": "2024-10-20",
+    "status": "progress",
+    "certification_awarded": false,
+    "trainer": "Jane Smith"
+  },
+  {
+    "people_id": "b6ac8315-5418-4db1-b84f-fb83351751e5",
+    "training_name": "Python for Data Science",
+    "training_type": "mandatory",
+    "start_date": "2024-12-01",
+    "end_date": "2024-12-20",
+    "status": "not-started",
+    "certification_awarded": false,
+    "trainer": "Alice Johnson"
+  },
+  {
+    "people_id": "e6b1842a-3f52-42fe-92db-68ed8b634fd1",
+    "training_name": "Advanced Excel",
+    "training_type": "optional",
+    "start_date": "2024-11-05",
+    "end_date": "2024-11-10",
+    "status": "completed",
+    "certification_awarded": true,
+    "trainer": "David Lee"
+  },
+  {
+    "people_id": "7d6a5764-9ea1-45bc-b59b-9a8a717abfe1",
+    "training_name": "Agile Scrum Master",
+    "training_type": "mandatory",
+    "start_date": "2024-11-10",
+    "end_date": "2024-11-20",
+    "status": "completed",
+    "certification_awarded": true,
+    "trainer": "Sarah Patel"
+  },
+  {
+    "people_id": "12f524db-d41b-4934-9c25-f5e1a60b7c60",
+    "training_name": "SQL Database Management",
+    "training_type": "optional",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-15",
+    "status": "progress",
+    "certification_awarded": false,
+    "trainer": "Michael Brown"
+  },
+  {
+    "people_id": "fed5f7e3-88f7-4c98-885d-9e0299872273",
+    "training_name": "JavaScript for Beginners",
+    "training_type": "mandatory",
+    "start_date": "2024-09-01",
+    "end_date": "2024-09-30",
+    "status": "completed",
+    "certification_awarded": true,
+    "trainer": "Daniel Green"
+  },
+  {
+    "people_id": "945bc451-14ac-4eb5-8302-eed320e1d67f",
+    "training_name": "Data Analytics with R",
+    "training_type": "mandatory",
+    "start_date": "2024-11-15",
+    "end_date": "2024-11-25",
+    "status": "not-started",
+    "certification_awarded": false,
+    "trainer": "Olivia White"
+  },
+  {
+    "people_id": "62f563ab-b70c-47c1-b0c9-dfcf0739f6b2",
+    "training_name": "Customer Service Excellence",
+    "training_type": "optional",
+    "start_date": "2024-12-05",
+    "end_date": "2024-12-10",
+    "status": "progress",
+    "certification_awarded": false,
+    "trainer": "Matthew Adams"
+  },
+  {
+    "people_id": "a875c9d2-16fc-473b-b6f1-e156429fa423",
+    "training_name": "Cybersecurity Awareness",
+    "training_type": "mandatory",
+    "start_date": "2024-11-01",
+    "end_date": "2024-11-05",
+    "status": "completed",
+    "certification_awarded": true,
+    "trainer": "Chris Wilson"
+  },
+  {
+    "people_id": "9fd1b042-b39b-43cd-9ab6-e80ea5ad5f16",
+    "training_name": "Leadership Skills for Managers",
+    "training_type": "optional",
+    "start_date": "2024-10-10",
+    "end_date": "2024-10-25",
+    "status": "progress",
+    "certification_awarded": false,
+    "trainer": "George Taylor"
+  },
+  {
+    "people_id": "479cc9ea-b32a-47ac-8647-cb46b1435fa5",
+    "training_name": "Public Speaking Mastery",
+    "training_type": "mandatory",
+    "start_date": "2024-10-15",
+    "end_date": "2024-10-30",
+    "status": "completed",
+    "certification_awarded": true,
+    "trainer": "Sophia Clark"
+  },
+  {
+    "people_id": "885b459f-bb13-46c8-b226-d8a5a62a2bc9",
+    "training_name": "Negotiation Skills",
+    "training_type": "optional",
+    "start_date": "2024-11-15",
+    "end_date": "2024-11-22",
+    "status": "progress",
+    "certification_awarded": false,
+    "trainer": "James Evans"
+  }
+]

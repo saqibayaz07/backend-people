@@ -1,0 +1,37 @@
+[
+  {
+    "position_title": "Junior Software Developer",
+    "department_id": "f72f1e32-b902-47a9-a5e0-3b8c6e5c95e3", 
+    "description": "Responsible for assisting in the development, testing, and maintenance of software applications. Works under supervision of senior developers.",
+    "required_skills": ["JavaScript", "React", "HTML", "CSS"],
+    "employment_type": "full-time"
+  },
+  {
+    "position_title": "Software Developer",
+    "department_id": "f72f1e32-b902-47a9-a5e0-3b8c6e5c95e3",
+    "description": "Involved in designing, coding, testing, and debugging software applications. Collaborates with cross-functional teams to ensure software meets business requirements.",
+    "required_skills": ["JavaScript", "Node.js", "SQL", "Git"],
+    "employment_type": "full-time"
+  },
+  {
+    "position_title": "Senior Software Developer",
+    "department_id": "f72f1e32-b902-47a9-a5e0-3b8c6e5c95e3",
+    "description": "Leads the design, development, and deployment of software solutions. Mentors junior developers and ensures software quality and performance standards are met.",
+    "required_skills": ["JavaScript", "TypeScript", "Node.js", "AWS"],
+    "employment_type": "full-time"
+  },
+  {
+    "position_title": "Software Architect",
+    "department_id": "f72f1e32-b902-47a9-a5e0-3b8c6e5c95e3",
+    "description": "Responsible for creating high-level software designs and defining architecture solutions. Ensures scalability, maintainability, and high performance in the system architecture.",
+    "required_skills": ["Architecture Design", "Microservices", "AWS", "Docker"],
+    "employment_type": "full-time"
+  },
+  {
+    "position_title": "Frontend Developer",
+    "department_id": "f72f1e32-b902-47a9-a5e0-3b8c6e5c95e3",
+    "description": "Designs and develops user-facing features for web applications, with a focus on responsive design.",
+    "required_skills": ["JavaScript", "React", "HTML", "CSS", "SASS"],
+    "employment_type": "contract"
+  }
+]

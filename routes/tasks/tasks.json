@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Fix login page bug",
+    "assignee_id": "123e4567-e89b-12d3-a456-426614174000",
+    "tag": "high",
+    "priority": "Critical",
+    "description": "Resolve the issue causing login failure for some users on the production environment.",
+    "progress": 10,
+    "time_updated": "2024-12-16T09:00:00Z",
+    "status": "inbox",
+    "important": true
+  },
+  {
+    "title": "Create REST API for task management",
+    "assignee_id": "223e4567-e89b-12d3-a456-426614174001",
+    "tag": "team",
+    "priority": "High",
+    "description": "Develop endpoints for CRUD operations on tasks, including validation and error handling.",
+    "progress": 45,
+    "time_updated": "2024-12-15T14:30:00Z",
+    "status": "inbox",
+    "important": true
+  },
+  {
+    "title": "UI Design for Dashboard",
+    "assignee_id": "323e4567-e89b-12d3-a456-426614174002",
+    "tag": "medium",
+    "priority": "Medium",
+    "description": "Design the dashboard for the project management app with user-friendly navigation and responsive layout.",
+    "progress": 60,
+    "time_updated": "2024-12-14T16:00:00Z",
+    "status": "inbox",
+    "important": false
+  },
+  {
+    "title": "Database schema optimization",
+    "assignee_id": "79ca3d78-b899-45ca-8ff2-d30fefe88ca6",
+    "tag": "update",
+    "priority": "High",
+    "description": "Analyze and optimize database schema for improved query performance.",
+    "progress": 20,
+    "time_updated": "2024-12-14T10:00:00Z",
+    "status": "inbox",
+    "important": true
+  },
+  {
+    "title": "Write unit tests for authentication module",
+    "assignee_id": "0a7701d2-649b-414c-ad7b-f78ec36204c9",
+    "tag": "low",
+    "priority": "Low",
+    "description": "Create comprehensive unit tests for login and registration features.",
+    "progress": 75,
+    "time_updated": "2024-12-13T15:00:00Z",
+    "status": "done",
+    "important": false
+  },
+  {
+    "title": "Deploy staging environment",
+    "assignee_id": "ecae0334-e75b-43de-a7c6-e6b1c0b2e062",
+    "tag": "high",
+    "priority": "Critical",
+    "description": "Set up and deploy the latest version of the application to the staging server.",
+    "progress": 90,
+    "time_updated": "2024-12-15T18:00:00Z",
+    "status": "done",
+    "important": true
+  },
+  {
+    "title": "Prepare project documentation",
+    "assignee_id": "0a7701d2-649b-414c-ad7b-f78ec36204c9",
+    "tag": "medium",
+    "priority": "Medium",
+    "description": "Compile detailed technical and user documentation for the project.",
+    "progress": 30,
+    "time_updated": "2024-12-16T08:00:00Z",
+    "status": "inbox",
+    "important": false
+  },
+  {
+    "title": "Integrate payment gateway",
+    "assignee_id": "79ca3d78-b899-45ca-8ff2-d30fefe88ca6",
+    "tag": "high",
+    "priority": "Critical",
+    "description": "Integrate Stripe payment gateway for processing transactions securely.",
+    "progress": 50,
+    "time_updated": "2024-12-15T12:00:00Z",
+    "status": "inbox",
+    "important": true
+  },
+  {
+    "title": "Code review for team module",
+    "assignee_id": "79ca3d78-b899-45ca-8ff2-d30fefe88ca6",
+    "tag": "team",
+    "priority": "High",
+    "description": "Review the implementation of the team collaboration module for code quality and adherence to standards.",
+    "progress": 25,
+    "time_updated": "2024-12-15T10:30:00Z",
+    "status": "inbox",
+    "important": true
+  },
+  {
+    "title": "Implement CI/CD pipeline",
+    "assignee_id": "ecae0334-e75b-43de-a7c6-e6b1c0b2e062",
+    "tag": "update",
+    "priority": "High",
+    "description": "Set up continuous integration and delivery pipeline using GitHub Actions.",
+    "progress": 15,
+    "time_updated": "2024-12-16T07:00:00Z",
+    "status": "inbox",
+    "important": false
+  }
+]

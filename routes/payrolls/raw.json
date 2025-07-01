@@ -1,0 +1,171 @@
+[
+  {
+    "people_id": "f4f8a3a7-4937-4fd3-b8f7-49c6ebfdc348",
+    "pay_period_start": "2024-11-01",
+    "pay_period_end": "2024-11-30",
+    "gross_salary": 4000.00,
+    "deductions": {
+      "tax": 400.00,
+      "insurance": 100.00
+    },
+    "net_salary": 3500.00,
+    "payment_date": "2024-12-05",
+    "remarks": "Salary paid for November 2024."
+  },
+  {
+    "people_id": "d879fa25-ea38-41ac-8e58-d3f08e5ea72f",
+    "pay_period_start": "2024-10-01",
+    "pay_period_end": "2024-10-31",
+    "gross_salary": 5000.00,
+    "deductions": {
+      "tax": 500.00,
+      "insurance": 150.00
+    },
+    "net_salary": 4350.00,
+    "payment_date": "2024-11-05",
+    "remarks": "Salary paid for October 2024."
+  },
+  {
+    "people_id": "f9d7a0b5-1f9e-4d06-9371-8b4105f204ed",
+    "pay_period_start": "2024-11-01",
+    "pay_period_end": "2024-11-15",
+    "gross_salary": 3200.00,
+    "deductions": {
+      "tax": 320.00,
+      "insurance": 80.00
+    },
+    "net_salary": 2800.00,
+    "payment_date": "2024-11-20",
+    "remarks": "Mid-month salary for November."
+  },
+  {
+    "people_id": "c8d8b8f1-98f7-4c7f-8cfe-d13cf49d0325",
+    "pay_period_start": "2024-09-01",
+    "pay_period_end": "2024-09-30",
+    "gross_salary": 4500.00,
+    "deductions": {
+      "tax": 450.00,
+      "insurance": 120.00
+    },
+    "net_salary": 3930.00,
+    "payment_date": "2024-10-05",
+    "remarks": "Salary for September 2024."
+  },
+  {
+    "people_id": "bb42fd2f-b1fa-4856-9c8d-88c6943bc2a4",
+    "pay_period_start": "2024-11-01",
+    "pay_period_end": "2024-11-15",
+    "gross_salary": 3700.00,
+    "deductions": {
+      "tax": 370.00,
+      "insurance": 95.00
+    },
+    "net_salary": 3235.00,
+    "payment_date": "2024-11-20",
+    "remarks": "Mid-month payroll payment."
+  },
+  {
+    "people_id": "81b7fe8a-fde1-4325-952b-e04c32f72f34",
+    "pay_period_start": "2024-10-01",
+    "pay_period_end": "2024-10-31",
+    "gross_salary": 5500.00,
+    "deductions": {
+      "tax": 550.00,
+      "insurance": 170.00
+    },
+    "net_salary": 4780.00,
+    "payment_date": "2024-11-05",
+    "remarks": "Salary for October 2024."
+  },
+  {
+    "people_id": "ef53b328-82a1-4753-b601-48d2d4c3d732",
+    "pay_period_start": "2024-08-01",
+    "pay_period_end": "2024-08-31",
+    "gross_salary": 6000.00,
+    "deductions": {
+      "tax": 600.00,
+      "insurance": 200.00
+    },
+    "net_salary": 5200.00,
+    "payment_date": "2024-09-05",
+    "remarks": "Salary for August 2024."
+  },
+  {
+    "people_id": "a12b5cf6-9d30-4b09-bb9a-540b1b1459c1",
+    "pay_period_start": "2024-11-01",
+    "pay_period_end": "2024-11-30",
+    "gross_salary": 4800.00,
+    "deductions": {
+      "tax": 480.00,
+      "insurance": 120.00
+    },
+    "net_salary": 4200.00,
+    "payment_date": "2024-12-05",
+    "remarks": "November 2024 payroll."
+  },
+  {
+    "people_id": "56f3e7d7-1d26-4bfa-a042-27b015634d75",
+    "pay_period_start": "2024-10-01",
+    "pay_period_end": "2024-10-31",
+    "gross_salary": 4100.00,
+    "deductions": {
+      "tax": 410.00,
+      "insurance": 110.00
+    },
+    "net_salary": 3580.00,
+    "payment_date": "2024-11-05",
+    "remarks": "Salary paid for October."
+  },
+  {
+    "people_id": "b54e8f1c-8b37-49a9-8b0b-74668b60eddb",
+    "pay_period_start": "2024-09-01",
+    "pay_period_end": "2024-09-30",
+    "gross_salary": 5300.00,
+    "deductions": {
+      "tax": 530.00,
+      "insurance": 140.00
+    },
+    "net_salary": 4630.00,
+    "payment_date": "2024-10-05",
+    "remarks": "Payroll for September."
+  },
+  {
+    "people_id": "23f87a65-bf62-47be-9db9-078a5c6e9b0f",
+    "pay_period_start": "2024-08-01",
+    "pay_period_end": "2024-08-31",
+    "gross_salary": 6200.00,
+    "deductions": {
+      "tax": 620.00,
+      "insurance": 200.00
+    },
+    "net_salary": 5380.00,
+    "payment_date": "2024-09-05",
+    "remarks": "Salary for August."
+  },
+  {
+    "people_id": "94cb48a2-7e84-485e-900d-16f3a10d4f09",
+    "pay_period_start": "2024-11-01",
+    "pay_period_end": "2024-11-30",
+    "gross_salary": 4900.00,
+    "deductions": {
+      "tax": 490.00,
+      "insurance": 130.00
+    },
+    "net_salary": 4280.00,
+    "payment_date": "2024-12-05",
+    "remarks": "Payroll for November 2024."
+  },
+  {
+    "people_id": "f3b3bc3b-299e-4e26-b93f-d72cf5062d9a",
+    "pay_period_start": "2024-10-01",
+    "pay_period_end": "2024-10-31",
+    "gross_salary": 5400.00,
+    "deductions": {
+      "tax": 540.00,
+      "insurance": 150.00
+    },
+    "net_salary": 4710.00,
+    "payment_date": "2024-11-05",
+    "remarks": "October 2024 payroll."
+  }
+]

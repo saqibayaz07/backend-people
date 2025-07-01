@@ -1,0 +1,11 @@
+node_modules
+
+/migrations
+
+/lib/migs
+/lib/raw
+/lib/rawmodels
+
+package-lock.json
+.env
+*.env
